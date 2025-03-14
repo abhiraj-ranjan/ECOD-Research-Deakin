@@ -8,7 +8,7 @@ This project focuses on evaluating and improving the **Empirical Cumulative Outl
 
 ### Key Contributions  
 - **Empirical Evaluation:** Assessed different ECOD algorithm variants to analyze their effectiveness.  
-- **Algorithm Implementation:** Designed and tested modified ECOD architectures (**ECOD_L, ECOD_R, ECOD_CUSTOM**) against baseline models.  
+- **Algorithm Implementation:** Designed and tested modified ECOD architectures (**ECOD_L, ECOD_R, ECOD_B, ECOD_CUSTOM**) against baseline models.  
 - **Benchmarking:** Conducted experiments on six datasets: `cardio`, `ionosphere`, `mammography`, `satimage-2`, `statlog`, and `pima`.  
 - **Performance Metrics:** Evaluated efficiency using:  
   - ROC-AUC and Precision-Recall curves  
