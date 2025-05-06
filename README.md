@@ -14,4 +14,5 @@ This project focuses on evaluating and improving the **Empirical Cumulative Outl
   - ROC-AUC and Precision-Recall curves  
   - Error analysis (false positive/negative characterization)  
 
-
+### Code and Notebooks  
+You can access the full Colab notebook for model implementation and analysis [here](https://colab.research.google.com/drive/1dc6VSNwO2-dQA66qUBOl7lB0vADi1crg?usp=sharing).
